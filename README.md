@@ -2,8 +2,9 @@ NinjaRecipe is a user-friendly Android app designed for cooking enthusiasts. It 
 
 **Android Concepts Used:**
 
-* Room Database: For local data storage and offline access to recipes.
 * ViewBinding: For easier and safer access to views in the app's layout.
+* The app is developed using Kotlin for modern, concise, and expressive code.
+* Room Database: For local data storage and offline access to recipes.
 
  **Screenshots:**
 
