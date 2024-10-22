@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NinjaRecipe</string>
+    <string name="splashimageview">splashImageview</string>
+    <string name="abt_app">NinjaRecipe is a user-friendly Android app for cooking enthusiasts, offering a variety of recipes with step-by-step instructions and ingredient lists. Discover new dishes, filter by categories, and enjoy an effortless cooking experience with NinjaRecipe as your ultimate kitchen companion.</string>
+</resources>
